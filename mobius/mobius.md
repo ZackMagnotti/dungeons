@@ -3,7 +3,7 @@
 ## Class
 
 - Psychic Strike [7]
-    - 2d6 + 2 damage
+    - 2d6 + 3 damage
     - Shaken 1 round
     - {DC 17} Will Negates
 
