@@ -1,6 +1,6 @@
 ## Character
 
-- HP: 34/34
+- HP: 42/42
 
 - Spell Slots
     - 1st: 7/7

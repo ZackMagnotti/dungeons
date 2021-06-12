@@ -5,7 +5,7 @@
 - Psychic Strike [7]
     - 2d6 + 2 damage
     - Shaken 1 round
-    - {DC 16} Will Negates
+    - {DC 17} Will Negates
 
 - Mental Resistance
     - +2 on saving throws against
@@ -76,7 +76,7 @@
 
 ## 3rd [4] {DC 17}
 
-- Spiked Pit (divination) {Divination}
+- Spiked Pit (divination) 
     - Create spiked pit
         - 2d6 + fall damage 
             - 7d6 max
