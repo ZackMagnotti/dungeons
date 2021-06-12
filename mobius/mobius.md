@@ -1,24 +1,63 @@
-# Abilities
+# Character
 
-## Class
+## Recources
 
-- Psychic Strike [7]
-    - 2d6 + 3 damage
+- HP: 42
+
+- AC: 19
+
+- Saves
+    - Fortitude: 5
+    - Reflexex: 6
+    - Will: 6
+
+- Spell Slots
+    - 1st: 7
+    - 2nd: 6
+    - 3rd: 4
+
+- Psychic Strike: 7
+
+- Images: 0
+
+## Attacks
+
+- Dagger
+    - +6 attack
+    - 1d4 + 3
+
+- Shocking Grasp
+    - +6 attack
+    - 5d6
+
+- Scorching Ray
+    - +6 attack
+    - 4d6
+
+## Class Abilities
+
+- Psychic Strike
+    - 5d6 + 5 damage
     - Shaken 1 round
-    - {DC 17} Will Negates
+    - {DC 19} Will Negates
+    - 7 per day
 
 - Mental Resistance
-    - +2 on saving throws against
-     mind affecting effects
+    - +4 on saving throws against mind affecting effects
+
+- Undercasting Prodigy
 
 ## Items
 
 - Jaunt Boots [3]
     - 15 ft move that doesn't provoke
 
+- Robe of Arcane Heritage
+    - +4 lvl for bloodline powers
+
 # Spells
 
-## 0th [--] {DC 14}
+## 0th {DC 14}
 
 - Detect Magic
 
@@ -34,12 +73,13 @@
 
 - Resistance
 
-## 1st [7] {DC 15}
+## 1st {DC 15}
 
 - Mind Thrust (bloodline) {Divination}
     - Will save halfs damage
         - (I) 5d6 {DC 16}
         - (II) 5d8 {DC 17}
+        - (III) 6d8 {DC 18}
 
 - Shield
     - +4 AC
@@ -55,11 +95,11 @@
      of current position
 
 - Shocking Grasp
-    - Touch attack
+    - +6 touch attack
     - 5d6 electricity damage
     - +3 attack if target equipped with metal
 
-## 2nd [6] {DC 16}
+## 2nd {DC 16}
 
 - Id Insinuation (bloodline)
     - Will Negates
@@ -68,17 +108,20 @@
 
 - Mirror Image
     - 2d4 images created
+    - 1 min/lvl
     - Misses by 5 or less destroy an image
 
 - Scorching Ray
-    - Ranged touch attack (35 ft)
+    - +6 Ranged Attack
     - 4d6 fire damage
 
-## 3rd [4] {DC 17}
+- See Invisibility (ring)
+    - See invisible things
+    - 10 min/level
 
-- Spiked Pit (divination) 
+## 3rd {DC 17}
+
+- Spiked Pit 
     - Create spiked pit
         - 2d6 + fall damage 
-            - 7d6 max
-        - DC20 climb (walls do 1d6/round)
-
+        - DC20 climb (1d6/round)
