@@ -55,6 +55,13 @@
 - Robe of Arcane Heritage
     - +4 lvl for bloodline powers
 
+- Wand of Infernal Healing
+    - +1 hp/round for 10 rounds
+
+- Wand of Mage Armor
+    - +2 AC
+    - 1 hr/lvl
+
 # Spells
 
 ## 0th {DC 14}

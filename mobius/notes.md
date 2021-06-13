@@ -4,7 +4,7 @@
 
 - HP: 48 ~ 48
 
-- AC: 18 ~ 18
+- AC: 18 ~ 20
 
 - Saves
     - Fortitude: 6 ~ 7
