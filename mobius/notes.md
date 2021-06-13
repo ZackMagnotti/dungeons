@@ -1,14 +1,14 @@
 # Character
 
-## Resources
+## Recources
 
-- HP: 42 ~ 42
+- HP: 48 ~ 48
 
-- AC: 19 ~ 19
+- AC: 18 ~ 18
 
 - Saves
-    - Fortitude: 5 ~ 6
-    - Reflexex: 6 ~ 7
+    - Fortitude: 6 ~ 7
+    - Reflexex: 7 ~ 8
     - Will: 6 ~ 7
 
 - Spell Slots

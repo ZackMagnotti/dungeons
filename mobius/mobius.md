@@ -2,13 +2,13 @@
 
 ## Recources
 
-- HP: 42
+- HP: 48
 
-- AC: 19
+- AC: 18
 
 - Saves
-    - Fortitude: 5
-    - Reflexex: 6
+    - Fortitude: 6
+    - Reflexex: 7
     - Will: 6
 
 - Spell Slots
@@ -23,15 +23,15 @@
 ## Attacks
 
 - Dagger
-    - +6 attack
-    - 1d4 + 3
+    - +7 attack
+    - 1d4 + 4
 
 - Shocking Grasp
-    - +6 attack
+    - +7 attack
     - 5d6
 
 - Scorching Ray
-    - +6 attack
+    - +7 attack
     - 4d6
 
 ## Class Abilities
