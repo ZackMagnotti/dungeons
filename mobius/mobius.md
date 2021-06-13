@@ -1,6 +1,6 @@
 # Character
 
-## Recources
+## Resources
 
 - HP: 48
 
