@@ -23,7 +23,7 @@
 
 - Blade Tutor's Spirit
     - Summon spirit
-    - -1 (5/lvl + 1) to attack penalties by voluntary effects
+    - -1 (lvl/5 + 1) to attack penalties by voluntary effects
 
 - Shocking Grasp
     - 1d6/lvl (max 5) shock damage
