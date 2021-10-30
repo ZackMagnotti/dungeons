@@ -32,8 +32,10 @@
 - Chill Touch (Attack/lvl)
     - 1d6 negative energy damage
     - 1 Strength damage (Fortitutde save)
+
 - Warding Weapon
     - Cast spells without provoking attack of opportunity
+
 - Returning
     - Grants a weapon the returning special weapon quality.
 
