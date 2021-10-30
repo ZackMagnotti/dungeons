@@ -39,3 +39,14 @@
 - Returning
     - Grants a weapon the returning special weapon quality.
 
+# 2nd
+- Mirror Image
+    - 1d4 + lvl/3 images
+    - Near misses (5 or less) destroy an image
+
+- Molten Orb
+    - Thrown splash weapon
+    - 2d6 direct hit
+    - 1d6 splash (reflex halfs)
+    - 1d6 fire per 1d4 rounds for all affected
+
