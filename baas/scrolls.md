@@ -9,3 +9,6 @@
 - Grease
 - Remove Fear
 - Summon Monster 1 ~ 2
+- Phantasmal Killer
+- Toungues
+
