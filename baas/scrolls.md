@@ -1,7 +1,5 @@
 # Scrolls
 
-- Summon Swarm
-- Ghostbane Dirge
 - Hold Portal
 - Knock
 - Cause Fear ~ 2
@@ -10,5 +8,4 @@
 - Remove Fear
 - Summon Monster 1 ~ 2
 - Phantasmal Killer
-- Toungues
 
