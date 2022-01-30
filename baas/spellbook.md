@@ -36,7 +36,7 @@
 - Warding Weapon
     - Cast spells without provoking attack of opportunity
 
-- Returning
+- Returning (min/lvl)
     - Grants a weapon the returning special weapon quality.
 
 # 2nd
