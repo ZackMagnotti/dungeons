@@ -21,7 +21,7 @@
     - +20 to next attack roll
     - Ignore concealment
 
-- Blade Tutor's Spirit
+- Blade Tutor's Spirit (min/lvl)
     - Summon spirit
     - -1 (lvl/5 + 1) to attack penalties by voluntary effects
 
@@ -29,18 +29,19 @@
     - 1d6/lvl (max 5) shock damage
     - +3 attack if target has metal
 
-- Chill Touch (Attack/lvl)
+- Chill Touch
+    - Targets creatures touched (up to one/level)
     - 1d6 negative energy damage
     - 1 Strength damage (Fortitutde save)
 
-- Warding Weapon
+- Warding Weapon (round/lvl)
     - Cast spells without provoking attack of opportunity
 
 - Returning (min/lvl)
     - Grants a weapon the returning special weapon quality.
 
 # 2nd
-- Mirror Image
+- Mirror Image (min/lvl)
     - 1d4 + lvl/3 images
     - Near misses (5 or less) destroy an image
 
