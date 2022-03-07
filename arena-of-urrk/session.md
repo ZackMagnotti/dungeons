@@ -22,6 +22,7 @@ along with the identifying seal, to the barkeep.
 
 The party recieves 2k gold each.
 
+
 # Take The Bait
 
 The party goes to the Lager Cellar tavern in the city of Larrad.
@@ -51,10 +52,11 @@ the bar counter, cleaning a drinking glass.
 
 The party shows the barkeep the letter.
 
-Barkeep motions for other patrons to leave through front door. Once they are gone,
+The barkeep motions for other patrons to leave through front door. Once they are gone,
 he tells the party to wait here and goes through a back door.
 
-Suddenly, the sounds of heavy sliding stone fill the room.
+Suddenly, the sounds of heavy sliding stones fill the room.
+
 
 # Arena
 
