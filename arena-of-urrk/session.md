@@ -40,7 +40,7 @@ A narrow staircase leads down from the front door. The staircase makes a sharp l
 as the party passes a single wall mounted torch, before finally ending with a short landing
 and another door.
 
-[Perception 20] 
+[Perception 20]
 - Party notices the section of the wall that slides out, but are unaware of its function.
 
 [Perception 30]
@@ -55,7 +55,7 @@ The party shows the barkeep the letter.
 The barkeep motions for other patrons to leave through front door. Once they are gone,
 he tells the party to wait here and goes through a back door.
 
-Suddenly, the sounds of heavy sliding stones fill the room.
+Suddenly, the party hears the sound of heavy sliding stones.
 
 
 # Arena
