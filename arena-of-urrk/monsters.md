@@ -38,3 +38,22 @@
 
 - Jackal - cr1/2
 
+# Dwarfs
+
+- Steadfast Defender - cr8
+
+- Storm Prophet - cr8
+
+- Merchant and Craftsman - cr8
+
+- Cave Stalker - cr5
+
+- Sniper - cr4
+
+- Guru - cr4
+
+- Dwarven Rager cr1
+
+- Miner - cr1
+
+- Gem Sorcerer - cr1
