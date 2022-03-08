@@ -1,19 +1,3 @@
-# Trolls
-
-- Cave Troll - cr4
-
-- Troll - cr5
-
-- Rock Troll - cr6
-
-- Brute Troll - cr7
-
-- Two Headed Troll - cr8
-
-- Beserker Troll - cr9
-
-- Mountain Troll - cr14
-
 # Animals
 
 ## Bears
@@ -37,6 +21,22 @@
 - Dog - cr1/3
 
 - Jackal - cr1/2
+
+# Trolls
+
+- Cave Troll - cr4
+
+- Troll - cr5
+
+- Rock Troll - cr6
+
+- Brute Troll - cr7
+
+- Two Headed Troll - cr8
+
+- Beserker Troll - cr9
+
+- Mountain Troll - cr14
 
 # Dwarfs
 
