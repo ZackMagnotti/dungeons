@@ -55,7 +55,10 @@ The party shows the barkeep the letter.
 The barkeep motions for other patrons to leave through front door. Once they are gone,
 he tells the party to wait here and goes through a back door.
 
-Suddenly, the party hears the sound of heavy sliding stones.
+## Sedative Encounter
+
+Some encounter with very high probability of sedating entire party.
+Possibly Sweetdream poison.
 
 
 # Arena
