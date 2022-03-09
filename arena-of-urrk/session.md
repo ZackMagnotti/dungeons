@@ -34,20 +34,16 @@ which it was carved. As such, the streets are narrow. Between clusters of
 ancient Dwarven cathedrals lie rows of houses, inns, taverns, and other places 
 of work and residence, built tightly beside and atop one another.
 
-It is on one of these streets the party finds the Lager Cellar tavern - the front
-door wedged tightly, almost hidden, between a blacksmithery and a butcher's
-storefront.
+[Knowledge Local/Architecture 15]
+- Dwarven cities like this are often built with secret catacombs and other hidden underground passages.
+
+It is on one of these narrow streets the party finds the Lager Cellar tavern -
+the front door wedged tightly, almost hidden, between a blacksmithery and a
+butcher's storefront.
 
 A narrow staircase leads down from the front door. The staircase makes a sharp
-left turn as the party passes a single wall mounted torch, before finally ending
-with a short landing
-and another door.
-
-[Perception 20]
-- Party notices the section of the wall that slides out, but are unaware of its function.
-
-[Perception 30]
-- Party notices scrape marks on the floor, and the contact point for the sliding section.
+left turn at the site of a single wall mounted torch, before finally ending
+in a short landing with another door.
 
 The party opens the door into a dimly lit cellar with a small bar and a few
 tables. A few Dwarf patrons sit around one of the tables, drinking in silence.
@@ -55,13 +51,35 @@ Another Dwarf stands behind the bar counter, cleaning a drinking glass.
 
 The party shows the barkeep the letter.
 
-The barkeep motions for other patrons to leave through front door. Once they are
-gone, he tells the party to wait here and goes through a back door.
+The barkeep motions for other patrons to leave through front door.
+
+[Perception 18]
+- Notice them lock the door on their way out.
+
+Once they are gone, he tells the party to wait here and goes through a
+reinforced door in the back.
+
+[Perception 16]
+- Notice, on his way out, he bars the door.
 
 ## Sedative Encounter
 
-Some encounter with very high probability of sedating entire party.
-Possibly Sweetdream poison.
+
+Sweetdream poison is pumped in through air vents and fills the room.
+
+### Initiative
+
+- Surprise Round
+    - [Perception 20] 
+        - Notice poisonous gas.
+
+- Round One
+    - Everyone rolls their first save against sweetdream.
+        - Anyone who noticed has ability to hold breath.
+
+- Round Two
+    - Everyone who failed first save falls asleep.
+    - Poison gas Follows anyone who opened a door down the hall.
 
 
 # Arena
