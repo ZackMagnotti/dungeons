@@ -24,7 +24,7 @@ along with the identifying seal, to the barkeep.
 The party recieves 2k gold each.
 
 
-# Take The Bait
+# Dust Cellar: Take The Bait
 
 The party goes to the Dust Cellar tavern in the city of Larrad.
 
@@ -49,9 +49,12 @@ The party opens the door into a dimly lit cellar with a small bar and a few
 tables. A few Dwarf patrons sit around one of the tables, drinking in silence.
 Another Dwarf stands behind the bar counter, cleaning a drinking glass.
 
-[Perception 18]
+[Perception 15]
 - Notice a pipe leading up the back wall and across the ceiling, above the bar.
 - Slits are cut into the sides of the pipe, seemingly for ventilation
+
+[Perception 25]
+- Notice the back door has sealed gaps, which seem intended to block airflow.
 
 The party shows the barkeep the letter.
 
@@ -86,8 +89,20 @@ Sweetdream poison is pumped in through air vents and fills the room.
 ### Enemies
 
 - Barkeep
+    - Hides in office with crossbow readied.
+    - Escapes through sewers if party breaks through front door first.
 
-- Dwarf Thugs
+- Thugs
+    - Wait outside
+    - Attack for non-lethal damage unless life is threatened
+    - Will run away before dying
+
+    - Expert Blacksmith
+        - If downstairs door was broken, waits by door with attack readied.
+
+    - Guru
+        - Has Mirror Image readied
+        - Uses invisibility to escape if near death
 
 ### Environment
 
@@ -103,10 +118,36 @@ Sweetdream poison is pumped in through air vents and fills the room.
     - HP 15
     - Hardness 5
     - Break DC 25
+    - Has glass peep hole
 
-- Office Door
+- Street Door (unlocked)
 
-- Trap Door to Sewer
+- Front Door (locked)
+    - HP 19
+    - Hardness 7
+    - Break DC 20
+    - Pick Lock DC 25
+
+- Back Door (deadbolted)
+    - HP 10
+    - Hardness 5
+    - Break DC 15
+    - Sealed gaps prevent vapor movement
+
+- Office Door (locked if occupied)
+    - HP 22
+    - Hardness 9
+    - Break DC 22
+    - Pick Lock DC 30
+    - Sealed gaps prevent vapor movement
+
+- Trap Door to Sewer (locked until opened)
+    - Concealed in lavatory stall
+        - DC 20 Perception to notice
+    - HP 10
+    - Hardness 4
+    - Break DC 13
+    - Pick Lock DC 25
 
 - Steaming Machine
     A contraption of pipes and pistons sits atop a lit furnace.
@@ -120,9 +161,12 @@ Sweetdream poison is pumped in through air vents and fills the room.
     - 40 Kief
     - 8 Wyrm Kief
 
-### Clues
+- Desk Lockbox
+    - 4k gold
+    - Open envelope with letter inside sits next to an small straw shipping box.
 
-A open letter lies on the office desk.
+### Letter Inside Lockbox
+
 ```
 Thuromir,
 
@@ -142,9 +186,9 @@ and he will consider your debt to him repaid.
 ```
 
 
-# Arena
+# Arena (if knocked out in tavern)
 
-- 2 Black Bears - cr6
+- 2 Grizzley Bears - cr8
 
 - 2 Boars and Dire Boar - cr8
 

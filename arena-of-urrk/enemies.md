@@ -48,6 +48,8 @@
 
 - Cave Stalker - cr5
 
+- Dwarf Engineer - cr4
+
 - Sniper - cr4
 
 - Guru - cr4

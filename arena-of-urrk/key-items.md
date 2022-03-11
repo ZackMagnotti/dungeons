@@ -35,9 +35,25 @@
     - HP 19
     - Hardness 7
     - Break DC 20
-    - Pick Lock DC 30
+    - Pick Lock DC 25
 
-- Back Door (barred)
-    - HP 15
+- Back Door (deadbolted)
+    - HP 10
     - Hardness 5
-    - Break DC 25
+    - Break DC 15
+    - Sealed gaps prevent vapor movement
+
+- Office Door (locked if occupied)
+    - HP 22
+    - Hardness 9
+    - Break DC 22
+    - Pick Lock DC 30
+    - Sealed gaps prevent vapor movement
+
+- Trap Door to Sewer (locked until opened)
+    - Concealed in lavatory stall
+        - DC 20 Perception to notice
+    - HP 10
+    - Hardness 4
+    - Break DC 13
+    - Pick Lock DC 25
