@@ -24,7 +24,9 @@ along with the identifying seal, to the barkeep.
 The party recieves 2k gold each.
 
 
-# Dust Cellar: Take The Bait
+# Dust Cellar
+
+## Take the Bait
 
 The party goes to the Dust Cellar tavern in the city of Larrad.
 
@@ -70,7 +72,7 @@ reinforced door in the back.
 - Notice, on his way out, he bars the door.
 
 
-## Sedative Encounter
+## Sweet Dreams
 
 Sweetdream poison is pumped in through air vents and fills the room.
 
