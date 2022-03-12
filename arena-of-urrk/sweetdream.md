@@ -12,7 +12,7 @@ One round after exposure, fall asleep for one min.
 Lose memory of 1d4 rounds pre-exposure.
 
 Once on onset, and once just before waking:
-- DC 21 or fall into deep sleep
+- DC 21 (19 if no longer in cloud) or fall into deep sleep
 
 ## Deep Sleep
 
