@@ -92,6 +92,7 @@ Sweetdream poison is pumped in through air vents and fills the room.
 - Barkeep
     - Hides in office with crossbow readied.
     - Escapes through sewers if party breaks through front door first.
+    - Has key to lockbox
 
 - Thugs
     - Wait outside
@@ -141,6 +142,8 @@ Sweetdream poison is pumped in through air vents and fills the room.
     The flame seems to be driving the pistons to push air through
     a glass chamber, and then a pip leading into the wall.
     Inside the glass chamber within the machine lies an empty vial.
+    - A dial is visible on the front of the machine. 
+    - Options are "Vapor" and "Air"; the dial is currently set to "Vapor".
 
 ### Loot
 
@@ -150,7 +153,8 @@ Sweetdream poison is pumped in through air vents and fills the room.
     - 40 Kief
     - 8 Wyrm Kief
 
-- Desk Lockbox
+- Desk Lockbox (locked)
+    - Pick Lock DC 30
     - 4k gold
     - Open envelope with letter inside sits next to an small straw shipping box.
 
@@ -233,5 +237,5 @@ hella loot
 ### Loot
 
 - Small Chest in Carraige
-    - 120 Platinum
+    - 100 Platinum
     - 8 doses of sweetdream
