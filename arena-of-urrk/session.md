@@ -67,7 +67,7 @@ The barkeep motions for other patrons to leave through front door.
 Once they are gone, he tells the party to wait here and goes through a
 reinforced door in the back.
 
-[Perception 25]
+[Perception 30]
 - Notice, on his way out, he bars the door.
 
 
