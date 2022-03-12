@@ -154,8 +154,12 @@ Sweetdream poison is pumped in through air vents and fills the room.
 
 - Desk Lockbox (locked)
     - Pick Lock DC 30
-    - 4k gold
-    - Open envelope with letter inside sits next to an small straw shipping box.
+    - Break DC 22
+    - Hardness 15
+    - HP 5
+    - Contents
+        - 4k gold
+        - Open envelope with letter inside next to an small straw shipping box.
 
 ### Letter Inside Lockbox
 
