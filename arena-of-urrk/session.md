@@ -198,6 +198,10 @@ and he will consider your debt to him repaid.
 
 - Two Headed Troll and 4 Jackals - cr10
 
+### Loot
+
+- If they win all the fights, they wake up with a bag containing 8k gold
+
 # Payback (if success in tavern)
 
 ## Sewers
@@ -243,5 +247,5 @@ hella loot
 ### Loot
 
 - Small Chest in Carraige
-    - 100 Platinum
+    - 120 Platinum
     - 8 doses of sweetdream
