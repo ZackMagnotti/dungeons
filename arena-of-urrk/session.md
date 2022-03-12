@@ -50,7 +50,7 @@ The party opens the door into a dimly lit cellar with a small bar and a few
 tables. A few Dwarf patrons sit around one of the tables, drinking in silence.
 Another Dwarf stands behind the bar counter, cleaning a drinking glass.
 
-[Perception 15]
+[Perception 18]
 - Notice a pipe leading up the back wall and across the ceiling, above the bar.
 - Slits are cut into the sides of the pipe, seemingly for ventilation
 
@@ -61,7 +61,7 @@ The party shows the barkeep the letter.
 
 The barkeep motions for other patrons to leave through front door.
 
-[Perception 15]
+[Perception 18]
 - Notice them lock the door on their way out.
 
 Once they are gone, he tells the party to wait here and goes through a
