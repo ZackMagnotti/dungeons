@@ -23,7 +23,6 @@ along with the identifying seal, to the barkeep.
 
 The party recieves 2k gold each.
 
-
 # Dust Cellar
 
 ## Take the Bait
@@ -68,7 +67,7 @@ The barkeep motions for other patrons to leave through front door.
 Once they are gone, he tells the party to wait here and goes through a
 reinforced door in the back.
 
-[Perception 20]
+[Perception 25]
 - Notice, on his way out, he bars the door.
 
 
@@ -77,7 +76,7 @@ reinforced door in the back.
 Sweetdream poison is pumped in through air vents and fills the room.
 
 - Surprise Round
-    - [Perception 20] 
+    - [Perception 15] 
         - Notice poisonous gas.
 
 - Round One
@@ -160,6 +159,8 @@ Sweetdream poison is pumped in through air vents and fills the room.
 ### Loot
 
 - Office Chest
+    - 4 Cure Moderate Wounds
+    - 8 Cure Light Wounds
     - 40 Kief
     - 8 Wyrm Kief
 
@@ -187,7 +188,6 @@ Do this - my employer will keep the secret of your petty drug peddling to himsel
 and he will consider your debt to him repaid.
 ```
 
-
 # Arena (if knocked out in tavern)
 
 - 2 Grizzley Bears - cr8
@@ -198,3 +198,50 @@ and he will consider your debt to him repaid.
 
 - Two Headed Troll and 4 Jackals - cr10
 
+# Payback (if success in tavern)
+
+## Sewers
+
+The party enters the secret door into a dwarven sewer that seems somehow
+older than the city itself. To the right is a metal grating grating;
+to the left lies a walkway that continues on for some way.
+
+They walk for some time
+
+The party sees the two mercenaries.
+
+The Shadow Striker hides in plain sight.
+
+### Enemies
+
+- Shadow Striker
+
+- Savage Mercenaries (x2)
+
+## Catacombs
+
+Navigate the catacombs
+
+Find exit; lets out on tight street
+
+Streetcar carrying shady representative
+
+hella loot
+
+### Enemies
+
+- Shady Representative (Cutthroat Lawyer)
+    - Hangs back and uses pistol until someone gets up close
+
+- Dwarven Rager (x2)
+    - Draw aggro
+
+- Foot soldier (x2)
+    - Hang back using muskets with rep
+    - Will engege in melee with longswords to protect rep
+
+### Loot
+
+- Small Chest in Carraige
+    - 100 Platinum
+    - 8 doses of sweetdream
