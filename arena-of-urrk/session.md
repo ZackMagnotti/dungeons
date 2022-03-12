@@ -180,17 +180,87 @@ and he will consider your debt to him repaid.
 
 # Arena (if knocked out in tavern)
 
+## Wake up in a Strange Place
+
+One by one the members of the party wake in a strange cell-like room.
+
+There are two doorways opposite eachother. One holds a normal reinforced
+wooden cell door, and the other a simple metal grating on which you see no hinges.
+
+In a small chest in the corner of the cell you find 8 potions of cure light wounds
+
+A few hours pass as the final party members wake. Finally, the metal grating
+slides open.
+
+The party walks down a long stone corridor. The faint sound of a cheering crowd
+can be heard in the distance, growing louder as the party moves forward.
+
+The corridor opens into a larger semi-circular tunnel with bare ground and stone
+walls and ceiling.
+
+The party leaves the small corridor and enters the larger tunnel.
+
+Several other similar corridors seem to also let out in this tunnel, but they are
+all sealed off with similar metal grating. Along the main tunnel, to the left,
+lies a dead end - to the right, torchlight, another metal grating, and the sound
+of the crowd.
+
+[Perception 18]
+- Notice the fight from this distance before approaching.
+
+The party approaches the tunnel exit. Through the grating, they see a large
+circular arena. As they near, they notice dead bodies scattered near
+the entrance.
+
+They hear a scream - a malnourished orc in tattered clothes runs across the
+entrance, and, a moment later, a large bear in pursuit. The bear catches him
+swiftley by the shoulder. A burst of blood erupts from the panicked orc's neck,
+before he goes limp in the beasts jaws.
+
+The crowd erupts into cheers. 
+
+An announcer can be heard bellowing over the crowd.
+
+"A brutal finish! The inmates put up a good fight, but even the mighty orc
+crumbles before the beasts of nature!"
+
+Another entrance to the arena opens, and handlers corral the animal out of the
+arena. A few others come to clear the dead bodies.
+
+The announcer again: "Ladies and gentlemen, we have something extra special
+lined up for tonight. A fully equipped team of mercenaries against the gauntlet!"
+
+The crowd can be heard hooting and hollering in excitement.
+
+The gate into the arena opens slowly. You see an identical gate opening
+simultaneously on the opposite side of the arena.
+
+## Fight!
+
 - 2 Grizzley Bears - cr8
 
 - 2 Boars and Dire Boar - cr8
+    - Dire boar has a bag tied to its back with 2 cure moderate wounds
 
 - 2 Cave Trolls - cr8
+    - Each cave troll has a cure moderate wounds in a similar back bag.
 
 - Two Headed Troll and 4 Jackals - cr10
 
-### Loot
+## Win the Arena (if success)
 
-- If they win all the fights, they wake up with a bag containing 8k gold
+If they win the arena, announcer congratulates the party and orders them into a small room through a small walkway beneath the announer's tower.
+
+As soon as they enter, metal doors slide down and seal them in. Sweetdream
+seeps into the chamber, lulling them into a deep sleep.
+
+## Wake in familiar place.
+
+The party wakes in a stable near the gates of Larrad with a bag containing 8k gold
+and a note.
+```
+Well done.
+```
 
 # Payback (if success in tavern)
 
@@ -237,5 +307,5 @@ hella loot
 ### Loot
 
 - Small Chest in Carraige
-    - 100 Platinum
+    - 1k Platinum
     - 8 doses of sweetdream
