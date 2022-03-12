@@ -249,14 +249,31 @@ simultaneously on the opposite side of the arena.
 
 ## Win the Arena (if success)
 
-If they win the arena, announcer congratulates the party and orders them into a small room through a small walkway beneath the announer's tower.
+If they win the arena, announcer congratulates the party.
 
-As soon as they enter, metal doors slide down and seal them in. Sweetdream
-seeps into the chamber, lulling them into a deep sleep.
+"Well done mercenaries! A fine performance in the face of crushing adversity.
+As a reward, your lives will be spared and your freedom returned. Enter the
+tunnel below my tower to collect your prize!"
+
+## Lose the Arena (if not successful)
+
+If half the party is dead or incapacitated at the end of a fight, a horn will blow
+signalling the end of the gauntlet.
+
+The announcer addresses the party.
+
+"Looks like even the pros couldn't handle the gauntlet! Mercinaries, enter
+the tunnel below the tower with your wounded and your lives will be spared."
 
 ## Wake in familiar place.
 
-The party wakes in a stable near the gates of Larrad with a bag containing 8k gold
+As soon as they enter the small room, metal doors slide down and seal them in.
+Sweetdream is pumped into the chamber, lulling them into a deep sleep.
+
+The party wakes in a stable near the gates of Larrad. 
+
+### If they won the arena
+They wake with a bag containing 8k gold
 and a note.
 ```
 Well done.
