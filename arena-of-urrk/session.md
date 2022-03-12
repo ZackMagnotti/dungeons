@@ -148,8 +148,7 @@ Sweetdream poison is pumped in through air vents and fills the room.
 ### Loot
 
 - Office Chest
-    - 4 Cure Moderate Wounds
-    - 8 Cure Light Wounds
+    - 6 Cure Moderate Wounds
     - 40 Kief
     - 8 Wyrm Kief
 
