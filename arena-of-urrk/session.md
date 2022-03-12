@@ -50,7 +50,7 @@ The party opens the door into a dimly lit cellar with a small bar and a few
 tables. A few Dwarf patrons sit around one of the tables, drinking in silence.
 Another Dwarf stands behind the bar counter, cleaning a drinking glass.
 
-[Perception 18]
+[Perception 12]
 - Notice a pipe leading up the back wall and across the ceiling, above the bar.
 - Slits are cut into the sides of the pipe, seemingly for ventilation
 
@@ -76,7 +76,7 @@ reinforced door in the back.
 Sweetdream poison is pumped in through air vents and fills the room.
 
 - Surprise Round
-    - [Perception 15] 
+    - [Perception 18]
         - Notice poisonous gas.
 
 - Round One
