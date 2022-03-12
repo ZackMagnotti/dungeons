@@ -35,7 +35,7 @@ which it was carved. As such, the streets are narrow. Between clusters of
 ancient Dwarven cathedrals lie rows of houses, inns, taverns, and other places 
 of work and residence, built tightly beside and atop one another.
 
-[Knowledge Local/Architecture 15]
+[Knowledge Local/Architecture 12]
 - Dwarven cities like this are often built with secret catacombs and other hidden underground passages.
 
 It is on one of these narrow streets the party finds the Dust Cellar tavern -
