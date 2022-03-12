@@ -102,7 +102,7 @@ Sweetdream poison is pumped in through air vents and fills the room.
     - Expert Blacksmith
         - If downstairs door was broken, waits by door with attack readied.
 
-    - Guru
+    - Guru x2
         - Has Mirror Image readied
         - Uses invisibility to escape if near death
 
@@ -237,15 +237,18 @@ simultaneously on the opposite side of the arena.
 
 ## Fight!
 
-- 2 Grizzley Bears - cr8
+[Perception 15]
+- Notice the health potions
 
-- 2 Boars and Dire Boar - cr8
-    - Dire boar has a bag tied to its back with 2 cure moderate wounds
+- 3 Grizzley Bears (cr4x3)
 
-- 2 Cave Trolls - cr8
+- 4 Boars and 2 Dire Boars - (cr2x4 cr4x2)
+    - Each dire boar has a bag tied to its back with 1 cure moderate wounds
+
+- 4 Cave Trolls - (cr4x4)
     - Each cave troll has a cure moderate wounds in a similar back bag.
 
-- Two Headed Troll and 4 Jackals - cr10
+- Two Headed Troll and 6 Jackals - (cr8 cr1/2x6)
 
 ## Win the Arena (if success)
 
@@ -298,6 +301,10 @@ The Shadow Striker hides in plain sight.
 - Shadow Striker
 
 - Savage Mercenaries (x2)
+    - Use flails
+
+- Foot Soldiers (x2)
+    - Hang back with muskets
 
 ## Catacombs
 
@@ -311,13 +318,13 @@ hella loot
 
 ### Enemies
 
-- Shady Representative (Cutthroat Lawyer)
+- Shady Representative (slayer)
     - Hangs back and uses pistol until someone gets up close
 
-- Dwarven Rager (x2)
+- Dwarven Ragers (x2)
     - Draw aggro
 
-- Foot soldier (x2)
+- Foot Soldiers (x4)
     - Hang back using muskets with rep
     - Will engege in melee with longswords to protect rep
 
