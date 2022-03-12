@@ -89,8 +89,12 @@ Sweetdream poison is pumped in through air vents and fills the room.
 
 ### Enemies
 
-- Barkeep
-    - Hides in office with crossbow readied.
+- Barkeep (Alley Stalker)
+    - Hides in office with pistol readied.
+    - Drug use has lowered constitution
+        - CON 12
+        - HP 42
+        - FORT +3 (+5 against drugs/poisons)
     - Escapes through sewers if party breaks through front door first.
     - Has key to lockbox
 
