@@ -2,7 +2,7 @@
 
 ## Resources
 
-- HP: 74 ~ 74
+- HP: 74 ~ 67
 
 - AC: 21
 
@@ -28,11 +28,10 @@
         - Enfeebled
             - dispel magical effects reducing one of target’s ability scores
 
-- Divine Bond 7 min/lvl ~ 7
-    - Standard Action
+- Divine Bond 7 min
+    - Standard Action; min/lvl
     - Weapon glows like torch
-    - +1 Weapon Enhancement 
-        - 1 min/lvl
+    - +1 Weapon Enhancement
 
 - Smite Evil 3 ~ 3
     - Swift Action; Target Enemy
