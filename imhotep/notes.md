@@ -30,7 +30,7 @@
 
 - Divine Bond 7 min/lvl ~ 7
     - Standard Action
-    - Weapon glowsl like torch
+    - Weapon glows like torch
     - +1 Weapon Enhancement 
         - 1 min/lvl
 
