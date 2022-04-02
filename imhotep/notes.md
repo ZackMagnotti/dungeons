@@ -29,6 +29,7 @@
             - dispel magical effects reducing one of target’s ability scores
 
 - Divine Bond 7 min/lvl ~ 7
+    - Standard Action
     - Weapon glowsl like torch
     - +1 Weapon Enhancement 
         - 1 min/lvl
