@@ -1,12 +1,12 @@
 # 1st
 
-- Stunning Barrier
+- Stunning Barrier (round/lvl)
     - +1 deflection to AC
     - +1 resistance bonus to saves
     - Any creature that strikes you with a melee attack is stunned for 1 round (Will negates).
     - Once the field has stunned an opponent, the spell is discharged.
 
-- Knights Calling
+- Knights Calling (1 round)
     - You compel an enemy to come and fight you.
     - On its turn, the target moves its speed toward you, avoiding any other dangers along its path.
     - The target may do nothing but move on its turn.
