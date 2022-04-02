@@ -16,7 +16,7 @@
 
 - Righteous Vigor (round/lvl)
     - Target Opponent
-    - Cumulative +1 to attack on target for each hit landed on target
+    - Cumulative +1 to attack (max +4) on target for each hit landed on target
     - Cumulative +1d8 temp hit points for each hit too (max 20)
     - Attack bonus resets to 0 on misses, but not temp hit points
 
