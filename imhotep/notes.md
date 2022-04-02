@@ -38,8 +38,8 @@
     - Swift Action; Target Enemy
     - +2 (CHA) attack
     - +2 (CHA) deflection against target's attack
-    - +6 (lvl) damage
-        - +12 (2/lvl) on first attack vs undead, evil outsider, evil dragon
+    - +7 (lvl) damage
+        - +14 (2/lvl) on first attack vs undead, evil outsider, evil dragon
 
 # Session Notes
 
