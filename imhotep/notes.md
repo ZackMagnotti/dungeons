@@ -2,7 +2,7 @@
 
 ## Resources
 
-- HP: 66 ~ 66
+- HP: 74 ~ 74
 
 - AC: 21
 
@@ -15,8 +15,10 @@
     - 1st: 2
         - Stunning Barrier
         - Knights Calling
+    - 2nd: 1
+        - Righteous Vigor
 
-- Lay On Hands 5 ~ 5
+- Lay On Hands 7 ~ 7
     - heal 3d6
     - swift action on self
     - (or) deal 3d6 to undead
@@ -26,11 +28,13 @@
         - Enfeebled
             - dispel magical effects reducing one of target’s ability scores
 
-- Divine Bond 1 ~ 1
+- Divine Bond 7 min/lvl ~ 7
+    - Weapon glowsl like torch
     - +1 Weapon Enhancement 
         - 1 min/lvl
 
-- Smite Evil 2 ~ 2
+- Smite Evil 3 ~ 3
+    - Swift Action; Target Enemy
     - +2 (CHA) attack
     - +2 (CHA) deflection against target's attack
     - +6 (lvl) damage
