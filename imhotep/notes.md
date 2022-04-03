@@ -2,7 +2,7 @@
 
 ## Resources
 
-- HP: 74 ~ 73
+- HP: 74
 
 - AC: 21
 
@@ -13,12 +13,12 @@
 
 - Spell Slots
     - 1st: 2
-        - Stunning Barrier ~
-        - Knights Calling ~
+        - Stunning Barrier
+        - Knights Calling
     - 2nd: 1
-        - Righteous Vigor ~
+        - Righteous Vigor
 
-- Lay On Hands 9 ~ 4
+- Lay On Hands: 9
     - standard action; swift on self
     - heal 5d6
     - (or) deal 5d6 to undead
@@ -28,12 +28,12 @@
         - Enfeebled
             - dispel magical effects reducing one of target’s ability scores
 
-- Divine Bond 7 min ~ 5
+- Divine Bond: 7 min
     - Standard Action; min/lvl
     - Weapon glows like torch
     - +1 Weapon Enhancement
 
-- Smite Evil 3 ~ 2 *
+- Smite Evil: 3
     - Swift Action; Target Enemy
     - +2 (CHA) attack
     - +2 (CHA) deflection against target's attack
@@ -44,7 +44,7 @@
 
 - Bracers of Merciful Knight
     - +4 lvl for Lay On Hands
-    - Infuse Lay On Hands with Lesser Restoration (once/day) ~
+    - Infuse Lay On Hands with Lesser Restoration (once/day)
 
 # Session Notes
 
